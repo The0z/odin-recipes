@@ -1,5 +1,7 @@
 # odin-recipes
 First Web Project from the Odin Project. This will be basic and will be used to introduce students into learning web development.
+View: https://the0z.github.io/odin-recipes/ for a live version
+
 
 The website will consist of:
 1. A main index page
